@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Little"
+  given-names: "Connor"
+title: "CISC870"
+version: 1.0.0
+date-released: 2024-04-24
+url: "https://github.com/connoralittle/CISC870"
