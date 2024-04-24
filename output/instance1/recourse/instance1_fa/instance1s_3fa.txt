@@ -1,0 +1,100 @@
+4
+Maximum of objective function: 335
+
+Day: 1
+C works shift D
+D works shift D
+E works shift D
+F works shift D
+H works shift D
+
+Day: 2
+A works shift D
+B works shift D
+C works shift D
+D works shift D
+E works shift D
+F works shift D
+H works shift D
+
+Day: 3
+A works shift D
+B works shift D
+C works shift D
+E works shift D
+F works shift D
+G works shift D
+H works shift D
+
+Day: 4
+A works shift D
+B works shift D
+E works shift D
+F works shift D
+G works shift D
+H works shift D
+
+Day: 5
+A works shift D
+B works shift D
+D works shift D
+G works shift D
+H works shift D
+
+Day: 6
+C works shift D
+D works shift D
+G works shift D
+
+Day: 7
+C works shift D
+D works shift D
+G works shift D
+
+Day: 8
+A works shift D
+B works shift D
+C works shift D
+D works shift D
+E works shift D
+F works shift D
+
+Day: 9
+A works shift D
+B works shift D
+E works shift D
+F works shift D
+H works shift D
+
+Day: 10
+B works shift D
+F works shift D
+G works shift D
+H works shift D
+
+Day: 11
+C works shift D
+D works shift D
+G works shift D
+
+Day: 12
+A works shift D
+C works shift D
+D works shift D
+E works shift D
+G works shift D
+
+Day: 13
+A works shift D
+B works shift D
+E works shift D
+F works shift D
+H works shift D
+
+Day: 14
+A works shift D
+B works shift D
+E works shift D
+F works shift D
+H works shift D
+

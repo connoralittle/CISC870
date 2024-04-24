@@ -1,0 +1,182 @@
+4
+Maximum of objective function: 3454
+
+Day: 1
+E works shift E
+G works shift E
+K works shift E
+I works shift D
+J works shift D
+N works shift D
+O works shift D
+C works shift L
+H works shift L
+L works shift L
+S works shift L
+
+Day: 2
+D works shift E
+E works shift E
+G works shift E
+K works shift E
+A works shift D
+B works shift D
+F works shift D
+I works shift D
+N works shift D
+H works shift L
+L works shift L
+O works shift L
+P works shift L
+
+Day: 3
+D works shift E
+E works shift E
+G works shift E
+M works shift E
+A works shift D
+B works shift D
+F works shift D
+I works shift D
+K works shift D
+N works shift D
+L works shift L
+O works shift L
+
+Day: 4
+C works shift E
+D works shift E
+G works shift E
+J works shift E
+T works shift E
+A works shift D
+B works shift D
+F works shift D
+I works shift D
+M works shift D
+N works shift D
+
+Day: 5
+P works shift E
+R works shift E
+T works shift E
+A works shift D
+B works shift D
+C works shift D
+F works shift D
+H works shift D
+J works shift D
+D works shift L
+I works shift L
+M works shift L
+N works shift L
+S works shift L
+
+Day: 6
+A works shift D
+C works shift D
+H works shift D
+J works shift D
+P works shift D
+R works shift D
+T works shift D
+N works shift L
+
+Day: 7
+C works shift D
+H works shift D
+J works shift D
+P works shift D
+R works shift D
+T works shift D
+
+Day: 8
+B works shift E
+D works shift E
+F works shift E
+I works shift E
+S works shift E
+
+Day: 9
+A works shift E
+D works shift E
+F works shift E
+M works shift E
+K works shift D
+L works shift D
+O works shift D
+B works shift L
+G works shift L
+I works shift L
+
+Day: 10
+C works shift E
+E works shift E
+F works shift E
+M works shift E
+R works shift E
+A works shift D
+J works shift D
+K works shift D
+L works shift D
+O works shift D
+Q works shift D
+B works shift L
+D works shift L
+G works shift L
+H works shift L
+N works shift L
+
+Day: 11
+C works shift E
+E works shift E
+M works shift E
+A works shift D
+J works shift D
+K works shift D
+L works shift D
+O works shift D
+Q works shift D
+G works shift L
+H works shift L
+N works shift L
+
+Day: 12
+C works shift E
+E works shift E
+M works shift E
+A works shift D
+J works shift D
+K works shift D
+L works shift D
+G works shift L
+H works shift L
+N works shift L
+O works shift L
+Q works shift L
+
+Day: 13
+D works shift E
+E works shift E
+M works shift E
+F works shift D
+K works shift D
+B works shift L
+G works shift L
+I works shift L
+L works shift L
+O works shift L
+Q works shift L
+
+Day: 14
+D works shift E
+E works shift E
+M works shift E
+S works shift E
+F works shift D
+K works shift D
+B works shift L
+I works shift L
+L works shift L
+O works shift L
+
